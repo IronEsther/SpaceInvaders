@@ -14,5 +14,5 @@ Space Invaders ist ein japanisches Videospiel, in dem man mit einem Raumschiff A
 
 ## Video
 
-[Video Spiel](https://www.youtube.com/watch?v=jD3CvX2ElBE "Video Spiel")
+[Video Spiel](https://youtu.be/9mdL8u5yNGg "Video Spiel")
 
